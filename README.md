@@ -24,6 +24,8 @@ Example setup:
 - **DevGroup** → Full access to development resources (e.g., EC2, S3 buckets for dev).
 - **ProdGroup** → Limited or read-only access to production resources.
 
+<img width="1606" height="1258" alt="image" src="https://github.com/user-attachments/assets/7cd6df79-f2cc-4d8a-9d85-e7b6f3c480b9" />
+
 This ensures:
 - Developers can innovate safely.
 - Production remains stable and secure.
