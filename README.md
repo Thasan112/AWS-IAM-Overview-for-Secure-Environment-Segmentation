@@ -1,7 +1,7 @@
 # AWS-IAM-Overview-for-Secure-Environment-Segmentation
 🔐 AWS IAM: Structuring Access for Dev and Prod Environments
 
-This mini-project demonstrates how to organize and manage user access in AWS using **IAM Users**, **User Groups**, and **Account Aliases**. It focuses on applying **environment-based access control** to securely separate development and production environments.
+This project demonstrates how to organize and manage user access in AWS using **IAM Users**, **User Groups**, and **Account Aliases**. It focuses on applying **environment-based access control** to securely separate development and production environments.
 
 Ideal for anyone looking to understand or showcase secure AWS practices in real-world scenarios.
 
